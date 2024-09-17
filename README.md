@@ -34,3 +34,6 @@ This shortcut opens a new chat screen in Cursor, enabling you to interact with t
 
 ### 2. `shift+cmd+a` -  Opens a New AI Chat Screen
 This shortcut opens a new AI modal in Cursor, offering different behavior based on whether you’ve selected code or not.
+
+### 3. `cmd+e` -  Generate in Terminal
+This shortcut allows generating AI-suggested commands in the terminal. It can be triggered when the terminal is in focus and supports terminal processes, making it easier to run AI-generated code directly in the terminal environment.
